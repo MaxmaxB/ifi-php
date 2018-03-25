@@ -1,5 +1,5 @@
 # ifi-php
 Rendu PHP ifi
 Bourdin Maxence
-Master 1 E-services
+Master 2 E-Services
 Université lille 
